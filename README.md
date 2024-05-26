@@ -1,6 +1,6 @@
 # Excel-Coffee-shop-data-analysis-project
 
-# Objective:  
+# Overview:  
 Analyzing retail sales data of Coffee shop to gain actionable insights that will enhance the performance of coffee shop with Excel using Power query editor, Pivot tables, Dax measures and Dashboarding
 
 
